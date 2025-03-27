@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Example'
-copyright = 'workshop participant'
-author = 'workshop participant'
+project = 'Isabelle Tutorials'
+copyright = 'Chelsea Edmonds'
+author = 'Chelsea Edmonds'
 release = '0.1'
 
 
